@@ -1,4 +1,4 @@
-# IncredibleHD
+# Incredible Decks
 Landing Page for relative materials
 
-https://jwilly117.github.io/IncredibleHD/
+https://jwilly117.github.io/incredibledecks/
